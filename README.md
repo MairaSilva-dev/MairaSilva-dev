@@ -98,19 +98,6 @@ Atualmente, estou aprendendo Java, orientação a objetos e desenvolvimento web.
   <img src="https://img.shields.io/badge/04-Estudar%20Back--end-C084FC?style=for-the-badge&labelColor=171329"/>
   <br/>
   <img src="https://img.shields.io/badge/05-Conquistar%20est%C3%A1gio-EC4899?style=for-the-badge&labelColor=171329"/>
-</p>
-╭────────────── ♡ MY ROADMAP ♡ ──────────────╮
-│                                             │
-│  [✓] Iniciar minha jornada na tecnologia   │
-│  [>] Evoluir na programação                │
-│  [ ] Criar projetos cada vez melhores     │
-│  [ ] Aprofundar meus conhecimentos em TI   │
-│  [ ] Conquistar meu primeiro estágio       │
-│                                             │
-│       Pequenos passos, grandes sonhos. ♡    │
-╰─────────────────────────────────────────────╯
-
-⸻
 
 💜 Estatísticas do GitHub
 
