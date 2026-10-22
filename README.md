@@ -102,11 +102,7 @@ Atualmente, estou aprendendo Java, orientação a objetos e desenvolvimento web.
 
 ⸻
 
-🌸 Minha atividade
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MairaSilva-dev&bg_color=171329&color=F5D0FE&line=DB4DCE&point=E879F9&area=true&hide_border=true" alt="Gráfico de atividade do GitHub"/>
-</p>
 
 
 ⸻
