@@ -99,15 +99,6 @@ Atualmente, estou aprendendo Java, orientação a objetos e desenvolvimento web.
   <br/>
   <img src="https://img.shields.io/badge/05-Conquistar%20est%C3%A1gio-EC4899?style=for-the-badge&labelColor=171329"/>
 
-💜 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MairaSilva-dev&show_icons=true&hide_border=true&bg_color=171329&title_color=E879F9&icon_color=C084FC&text_color=F5D0FE" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MairaSilva-dev&layout=compact&hide_border=true&bg_color=171329&title_color=E879F9&text_color=F5D0FE" alt="Linguagens mais usadas"/>
-</p>
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=MairaSilva-dev&theme=midnight-purple&hide_border=true&background=171329&ring=DB4DCE&fire=E879F9&currStreakLabel=E879F9" alt="Sequência de contribuições"/>
-</p>
 
 ⸻
 
@@ -117,21 +108,6 @@ Atualmente, estou aprendendo Java, orientação a objetos e desenvolvimento web.
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MairaSilva-dev&bg_color=171329&color=F5D0FE&line=DB4DCE&point=E879F9&area=true&hide_border=true" alt="Gráfico de atividade do GitHub"/>
 </p>
 
-⸻
-
-🏆 Conquistas
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MairaSilva-dev&theme=discord&no-frame=true&no-bg=true&row=1&column=6" alt="Troféus do GitHub"/>
-</p>
-
-⸻
-
-🐍 Cobrinha de contribuições
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/MairaSilva-dev/MairaSilva-dev/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha animada das contribuições"/>
-</p>
 
 ⸻
 
